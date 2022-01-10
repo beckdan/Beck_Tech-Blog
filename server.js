@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000
 
 const app = express();
 
-// app.set("port", PORT); 
+app.set("port", PORT); 
 
 const hbs = exphbs.create({ helpers });
 
