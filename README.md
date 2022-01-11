@@ -21,7 +21,9 @@ This project utilizes:
 - Node
 
 
-Deployed link: 
+Deployed link: https://desolate-harbor-15023.herokuapp.com
+GitHub Link: https://github.com/beckdan/Beck_Tech-Blog
+
 
 ## Technologies
 
